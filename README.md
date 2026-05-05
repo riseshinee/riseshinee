@@ -57,14 +57,13 @@
 ## GitHub Stats
 
 <div align="center">
-
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=riseshinee&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=riseshinee&show_icons=true&theme=default&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riseshinee&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riseshinee&layout=compact&theme=default&hide_border=true"
     height="165"
   />
 </p>
