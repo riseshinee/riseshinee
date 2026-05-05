@@ -5,7 +5,7 @@
 **Backend Engineer** crafting scalable systems with modern technologies
 
 <p align="center">
-  <img src="https://github.com/riseshinee.png" width="150" height="150" style="border-radius:50;" />
+  <img src="https://github.com/riseshinee.png" width="150" />
 </p>
 
 </div>
