@@ -5,7 +5,7 @@
 **Backend Engineer** crafting scalable systems with modern technologies
 
 <p align="center">
-  <img src="https://github.com/riseshinee.png" width="150" height="150" style="border-radius:50%;" />
+  <img src="https://github.com/riseshinee.png" width="150" height="150" style="border-radius:50;" />
 </p>
 
 </div>
@@ -59,8 +59,11 @@
 <div align="center">
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riseshinee&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riseshinee&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=riseshinee&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riseshinee&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 </div>
