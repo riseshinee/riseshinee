@@ -4,7 +4,9 @@
 
 **Backend Engineer** crafting scalable systems with modern technologies
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/riseshinee)](https://github.com/riseshinee)
+<p align="center">
+  <img src="https://github.com/riseshinee.png" width="150" height="150" style="border-radius:50%;" />
+</p>
 
 </div>
 
