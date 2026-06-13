@@ -54,6 +54,18 @@
 
 ---
 
+## Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/6a4db636-8d70-44f3-81b5-c5e9c20b03f5" target="_blank">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="120" alt="AWS Certified Solutions Architect – Associate" />
+  </a>
+  <br/>
+  <b>AWS Certified Solutions Architect – Associate</b>
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
