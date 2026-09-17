@@ -10,12 +10,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Overview
+      - name: Commits
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.svg
-          base: header
+          filename: metrics.commits.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           config_timezone: Asia/Seoul
 
       - name: Languages
