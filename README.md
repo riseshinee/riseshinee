@@ -69,8 +69,6 @@
 ## GitHub Stats
 
 <div align="center">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riseshinee&show_icons=true&theme=default&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riseshinee&layout=compact&theme=default&hide_border=true" height="165" />
-</p>
+  <img src="./metrics.svg" alt="GitHub Metrics" />
+  <img src="./metrics.languages.svg" alt="Top Languages" />
 </div>
