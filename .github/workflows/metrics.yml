@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          base: ""
+          base: activity
           config_timezone: Asia/Seoul
 
       - name: Languages
