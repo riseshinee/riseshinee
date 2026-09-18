@@ -17,8 +17,6 @@ jobs:
           filename: metrics.svg
           base: ""
           config_timezone: Asia/Seoul
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
       - name: Languages
         uses: lowlighter/metrics@latest
